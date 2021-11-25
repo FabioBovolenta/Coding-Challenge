@@ -1,0 +1,141 @@
+#sfondonero {
+    background-color: rgba(7, 7, 7, 0.486);
+    position: fixed;
+    right: 300px;
+    width:900px; height:700px
+}
+
+body {
+    text-align: center;
+    background-image: url(immagine.jpg);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    border-radius: 5px;
+    padding: 5px;
+    width: 140px;
+}
+
+header {
+    max-width: auto;
+    height: auto;
+}
+
+
+#titoloinizio {
+    font-family: Helvetica;
+    font-size: 30px;
+    color: rgb(6, 221, 6);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#pulsante1 {
+    position: relative;
+    top: 0px;
+    text-align: center;
+    font: normal;
+    height: 50px;
+    background-color: rgba(83, 247, 7, 0.801);
+}
+
+#text1 {
+    border-color: black;
+    border-style: solid;
+    border-left-width: 2px;
+    position: relative;
+    top: 15px;
+}
+
+#text2 {
+
+    border-color: black;
+    border-style: solid;
+    border-left-width: 2px;
+    position: relative;
+    top: 15px;
+}
+
+#text3 {
+    border-color: black;
+    border-style: solid;
+    border-left-width: 2px;
+    position: relative;
+    top: 15px;
+}
+
+strong {
+  color: white;
+
+  font-size: 20px;
+
+}
+
+#Gino {
+    position: relative;
+    top: 30px;
+    right: 180px;
+}
+
+#paragrafo1 {
+     position: relative;
+     left: 40px;
+}
+
+#paragrafo2 {
+position: relative;
+right: 40px;
+}
+
+#bottone {
+background-color: rgb(253, 103, 4);
+width: 200px;
+border-radius: 7px;
+position: relative;
+left: 20px;
+}
+
+
+#Mike24 {
+position: relative;
+top: 60px;
+right: 180px;
+}
+
+#paragrafo11 {
+position: relative;
+left: 20px;
+}
+
+#paragrafo222 {
+position: relative;
+right: 30px;
+}
+
+#bottone1 {
+background-color: rgb(52, 253, 52);
+width: 50px;
+border-radius: 7px;
+position: relative;
+left: -50px;
+}
+
+#paragrafofinale {
+position: relative;
+top: 30px;
+}
+
+#paragrafo111 {
+position: relative;
+left: 25px;
+}
+
+#bottone2 {
+background-color: rgb(243, 51, 67);
+border-radius: 7px;
+position: relative;
+left: 10px;
+}
